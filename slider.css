@@ -1,0 +1,19 @@
+.slider{
+	width: 1170px;
+	height: 400px;
+	position: relative;
+	margin: auto;
+}
+img{
+	width: 1170px;
+	height: 450px;
+}
+.a{
+	position: absolute;
+	left: -1330px;
+	transition: all 1s;
+}
+.s{
+	left: 0px;
+	
+}
